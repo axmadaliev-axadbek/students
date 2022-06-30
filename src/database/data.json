@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "studentId": 1,
+        "groupId": 1
+    },
+    {
+        "id": 2,
+        "studentId": 2,
+        "groupId": 3
+    },
+    {
+        "id": 3,
+        "studentId": 3,
+        "groupId": 2
+    },
+    {
+        "id": 4,
+        "studentId": 4,
+        "groupId": 2
+    },
+    {
+        "id": 5,
+        "studentId": 5,
+        "groupId": 1
+    }
+]

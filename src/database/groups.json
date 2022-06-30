@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "groupname": "frontend",
+        "group_price": 700000
+    },
+    {
+        "id": 2,
+        "groupname": "backend",
+        "group_price": 800000
+    },
+    {
+        "id": 3,
+        "groupname": "3dmax",
+        "group_price": 500000
+    },
+    {
+        "id": 4,
+        "groupname": "java",
+        "group_price": 1200000
+    },
+    {
+        "id": 5,
+        "groupname": "php",
+        "group_price": 650000
+    }
+]

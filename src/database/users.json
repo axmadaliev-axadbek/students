@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "username": "ali",
+        "age": 32,
+        "balance": 1000000
+    },
+    {
+        "id": 2,
+        "username": "salim",
+        "age": 19,
+        "balance": 8000000
+    },
+    {
+        "id": 3,
+        "username": "ali",
+        "age": 21,
+        "balance": 650000
+    },
+    {
+        "id": 4,
+        "username": "alibek",
+        "age": "25",
+        "balance": 8200000
+    },
+    {
+        "id": 5,
+        "username": "farxod",
+        "age": "22",
+        "balance": 1000000
+    },
+    {
+        "id": 6,
+        "username": "timur",
+        "age": "15",
+        "balance": 1000000
+    }
+]
